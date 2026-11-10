@@ -71,7 +71,7 @@
       "stored": "Your answers, mistakes, bookmarks, mock-exam history, readiness, language, exam date and reminder settings",
       "pro": {
         "name": "CCSE Prep Pro",
-        "unlocks": "all 300 questions, unlimited mock exams, the full results breakdown and mistakes review, and the AI tutor"
+        "unlocks": "all 320 practice questions, unlimited mock exams, the full results breakdown and mistakes review, and the AI tutor"
       },
       "ads": "android",
       "ai": {
@@ -82,8 +82,8 @@
       "reminders": true,
       "ratings": true,
       "authority": "the Instituto Cervantes or the Government of Spain",
-      "source_note": "The exam questions are those of the free Manual de preparación de la prueba CCSE 2026 published by the Instituto Cervantes.",
-      "support_html": "<h2>Fuentes · Sources</h2>\n<p>Las preguntas proceden del <a href=\"https://cervantes.org/sites/public/produccion/files/2026-10/manual-preparacion-prueba-ccse-2026.pdf\">Manual de preparación de la prueba CCSE 2026</a> del Instituto Cervantes, gratuito. Información oficial del examen: <a href=\"https://examenes.cervantes.es/es/ccse\">examenes.cervantes.es/es/ccse</a>.</p>",
+      "source_note": "The practice questions, answers and explanations are original works of ANAVASIS LLC, written from Spanish legal texts and public sources. They are not the official exam questions.",
+      "support_html": "<h2>Fuentes · Sources</h2>\n<p>Las preguntas de práctica, las respuestas y las explicaciones son originales de ANAVASIS LLC, escritas a partir de la Constitución, las leyes publicadas en el BOE y otras fuentes públicas; cada pregunta indica su fuente. No son las preguntas oficiales del examen. / The practice questions, answers and explanations are original works of ANAVASIS LLC, written from the Spanish Constitution, laws published in the BOE and other public sources; each question shows its source. They are not the official exam questions.</p>\n<p>Información oficial del examen · Official exam information: <a href=\"https://examenes.cervantes.es/es/ccse\">examenes.cervantes.es/es/ccse</a>.</p>",
       "disclaimer": "CCSE Prep es una app independiente de ANAVASIS LLC: no está afiliada al Instituto Cervantes ni al Gobierno de España. / An independent app by ANAVASIS LLC, not affiliated with the Instituto Cervantes or the Spanish government.",
       "remote_config": true
     }
