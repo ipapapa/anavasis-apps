@@ -1,0 +1,21 @@
+{
+  "company": "ANAVASIS LLC",
+  "contact": "anavasislimited@gmail.com",
+  "apps": [
+    {
+      "slug": "ccseprep",
+      "name": "CCSE Prep",
+      "lang": "es",
+      "tagline": "Preparación para la prueba CCSE de la nacionalidad española. / Prep for Spain's CCSE citizenship test.",
+      "updated": "10 November 2026",
+      "audience": "adults preparing for the CCSE test",
+      "stored": "Answers, mistakes, bookmarks, exam history, language, exam date and reminder settings.",
+      "purchases": true,
+      "reminders": true,
+      "ads": "android",
+      "ai_tutor": true,
+      "support_html": "<h2>Fuentes · Sources</h2>\n<p>Las preguntas proceden del <a href=\"https://cervantes.org/sites/public/produccion/files/2026-10/manual-preparacion-prueba-ccse-2026.pdf\">Manual de preparación de la prueba CCSE 2026</a> del Instituto Cervantes, gratuito. Información oficial del examen: <a href=\"https://examenes.cervantes.es/es/ccse\">examenes.cervantes.es/es/ccse</a>.</p>",
+      "disclaimer": "CCSE Prep es una app independiente de ANAVASIS LLC: no está afiliada al Instituto Cervantes ni al Gobierno de España. / An independent app by ANAVASIS LLC, not affiliated with the Instituto Cervantes or the Spanish government."
+    }
+  ]
+}
