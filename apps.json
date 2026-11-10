@@ -29,6 +29,32 @@
       "support_html": "<h2>Fuentes · Sources</h2>\n<p>Las preguntas proceden del <a href=\"https://cervantes.org/sites/public/produccion/files/2026-10/manual-preparacion-prueba-ccse-2026.pdf\">Manual de preparación de la prueba CCSE 2026</a> del Instituto Cervantes, gratuito. Información oficial del examen: <a href=\"https://examenes.cervantes.es/es/ccse\">examenes.cervantes.es/es/ccse</a>.</p>",
       "disclaimer": "CCSE Prep es una app independiente de ANAVASIS LLC: no está afiliada al Instituto Cervantes ni al Gobierno de España. / An independent app by ANAVASIS LLC, not affiliated with the Instituto Cervantes or the Spanish government.",
       "remote_config": true
+    },
+    {
+      "slug": "aucitizenship",
+      "name": "AussiePrep",
+      "full_name": "AussiePrep: Citizenship Test",
+      "lang": "en",
+      "tagline": "Practice for the Australian citizenship test, with the Australian values rule built in.",
+      "effective": "10 November 2026",
+      "applies": "the iPhone app and the Android app (version 1.0.0 and later) and this page",
+      "audience": "adults preparing for the Australian citizenship test",
+      "stored": "Your answers, mistakes, mock-test history, readiness, help language and reminder settings",
+      "pro": {
+        "name": "AussiePrep Pro",
+        "unlocks": "all 370 practice questions, unlimited mock tests, all explanations and the AI tutor"
+      },
+      "ads": "android",
+      "ai": {
+        "feature": "the AI tutor",
+        "sent": "the message you type, the earlier messages in that chat, the practice question you are asking about (with its answer, explanation and booklet references) and your chosen help language"
+      },
+      "reminders": true,
+      "ratings": true,
+      "authority": "the Department of Home Affairs or the Australian Government",
+      "source_note": "The practice questions are written from the free booklet Australian Citizenship: Our Common Bond (testable section), published by the Commonwealth of Australia under the CC BY 4.0 licence.",
+      "support_html": "<h2>Sources</h2>\n<p>The practice questions are written from the testable section of <a href=\"https://immi.homeaffairs.gov.au/citizenship/test-and-interview/our-common-bond\">Australian Citizenship: Our Common Bond</a> (© Commonwealth of Australia, <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>). The Department of Home Affairs also offers a free <a href=\"https://citizenshippracticetest.homeaffairs.gov.au/\">official practice test</a>.</p>",
+      "disclaimer": "AussiePrep is an independent app by ANAVASIS LLC. It is not affiliated with, endorsed by or connected to the Department of Home Affairs or the Australian Government."
     }
   ]
 }
