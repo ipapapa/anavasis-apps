@@ -55,10 +55,7 @@
       "source_note": "The questions are written by ANAVASIS LLC from the public regulations (BPR, RPR, Scheepvaartverkeerswet) and the CBR exam programme; they are not official exam questions.",
       "support_html": "<h2>Bronnen · Sources</h2>\n<p>Examenprogramma en examen: <a href=\"https://www.cbr.nl/\">cbr.nl</a>. Regelgeving: <a href=\"https://wetten.overheid.nl/BWBR0003628\">Binnenvaartpolitiereglement</a>, <a href=\"https://wetten.overheid.nl/BWBR0006923\">Rijnvaartpolitiereglement</a>, <a href=\"https://wetten.overheid.nl/BWBR0004364\">Scheepvaartverkeerswet</a>.</p>",
       "disclaimer": "Vaarbewijs Prep is een onafhankelijke app van ANAVASIS LLC en is niet verbonden aan het CBR of Rijkswaterstaat. / An independent app by ANAVASIS LLC, not affiliated with the CBR or Rijkswaterstaat."
-    }
-  ],
-  "_paused_note": "Apps here are unpublished (not built). CCSE Prep paused 2026-11-10 until the Instituto Cervantes grants permission for the questions; to restore, move it back into 'apps' and run build.py.",
-  "paused_apps": [
+    },
     {
       "slug": "ccseprep",
       "name": "CCSE Prep",
