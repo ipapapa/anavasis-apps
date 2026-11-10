@@ -5,17 +5,30 @@
     {
       "slug": "ccseprep",
       "name": "CCSE Prep",
+      "full_name": "CCSE Prep: Nacionalidad 2026",
       "lang": "es",
       "tagline": "Preparación para la prueba CCSE de la nacionalidad española. / Prep for Spain's CCSE citizenship test.",
-      "updated": "10 November 2026",
-      "audience": "adults preparing for the CCSE test",
-      "stored": "Answers, mistakes, bookmarks, exam history, language, exam date and reminder settings.",
-      "purchases": true,
-      "reminders": true,
+      "effective": "10 November 2026",
+      "applies": "the iPhone app and the Android app (version 1.0.0 and later) and this page",
+      "audience": "adults preparing for Spain's CCSE nationality test",
+      "stored": "Your answers, mistakes, bookmarks, mock-exam history, readiness, language, exam date and reminder settings",
+      "pro": {
+        "name": "CCSE Prep Pro",
+        "unlocks": "all 300 questions, unlimited mock exams, the full results breakdown and mistakes review, and the AI tutor"
+      },
       "ads": "android",
-      "ai_tutor": true,
+      "ai": {
+        "feature": "the AI tutor",
+        "sent": "the message you type, the question you are asking about (with its answer and explanation) and your chosen language",
+        "note": "The AI tutor is part of Pro and may not be enabled in every version."
+      },
+      "reminders": true,
+      "ratings": true,
+      "authority": "the Instituto Cervantes or the Government of Spain",
+      "source_note": "The exam questions are those of the free Manual de preparación de la prueba CCSE 2026 published by the Instituto Cervantes.",
       "support_html": "<h2>Fuentes · Sources</h2>\n<p>Las preguntas proceden del <a href=\"https://cervantes.org/sites/public/produccion/files/2026-10/manual-preparacion-prueba-ccse-2026.pdf\">Manual de preparación de la prueba CCSE 2026</a> del Instituto Cervantes, gratuito. Información oficial del examen: <a href=\"https://examenes.cervantes.es/es/ccse\">examenes.cervantes.es/es/ccse</a>.</p>",
-      "disclaimer": "CCSE Prep es una app independiente de ANAVASIS LLC: no está afiliada al Instituto Cervantes ni al Gobierno de España. / An independent app by ANAVASIS LLC, not affiliated with the Instituto Cervantes or the Spanish government."
+      "disclaimer": "CCSE Prep es una app independiente de ANAVASIS LLC: no está afiliada al Instituto Cervantes ni al Gobierno de España. / An independent app by ANAVASIS LLC, not affiliated with the Instituto Cervantes or the Spanish government.",
+      "remote_config": true
     }
   ]
 }
