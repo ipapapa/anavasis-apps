@@ -55,6 +55,34 @@
       "source_note": "The practice questions are written from the free booklet Australian Citizenship: Our Common Bond (testable section), published by the Commonwealth of Australia under the CC BY 4.0 licence.",
       "support_html": "<h2>Sources</h2>\n<p>The practice questions are written from the testable section of <a href=\"https://immi.homeaffairs.gov.au/citizenship/test-and-interview/our-common-bond\">Australian Citizenship: Our Common Bond</a> (© Commonwealth of Australia, <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>). The Department of Home Affairs also offers a free <a href=\"https://citizenshippracticetest.homeaffairs.gov.au/\">official practice test</a>.</p>",
       "disclaimer": "AussiePrep is an independent app by ANAVASIS LLC. It is not affiliated with, endorsed by or connected to the Department of Home Affairs or the Australian Government."
+    },
+    {
+      "slug": "vaarbewijs",
+      "name": "Vaarbewijs Prep",
+      "full_name": "Vaarbewijs Prep — KVB I & II",
+      "lang": "nl",
+      "tagline": "Theorie Klein Vaarbewijs I en II. / Prep for the Dutch small-boat licence exams (KVB I & II).",
+      "effective": "10 November 2026",
+      "applies": "the iPhone app and the Android app (version 1.0 and later) and this page",
+      "audience": "adults preparing for the Dutch Klein Vaarbewijs I and II theory exams",
+      "stored": "Your answers, mistakes, bookmarks, mock-exam and chartwork history, readiness, licence track, language, exam date and reminder settings",
+      "pro": {
+        "name": "Vaarbewijs Prep Pro",
+        "unlocks": "all KVB I and KVB II questions, unlimited mock exams, all chartwork exercises, the full results breakdown and mistakes review, and the AI tutor"
+      },
+      "ads": "android",
+      "ad_formats": "banner",
+      "ai": {
+        "feature": "the AI tutor (de Schipper)",
+        "sent": "the message you type, the question or chartwork exercise you are asking about (with its answer and explanation) and your chosen language",
+        "note": "The AI tutor is part of Pro and may not be enabled in every version."
+      },
+      "reminders": true,
+      "ratings": true,
+      "authority": "the CBR or Rijkswaterstaat",
+      "source_note": "The questions are written by ANAVASIS LLC from the public regulations (BPR, RPR, Scheepvaartverkeerswet) and the CBR exam programme; they are not official exam questions.",
+      "support_html": "<h2>Bronnen · Sources</h2>\n<p>Examenprogramma en examen: <a href=\"https://www.cbr.nl/\">cbr.nl</a>. Regelgeving: <a href=\"https://wetten.overheid.nl/BWBR0003628\">Binnenvaartpolitiereglement</a>, <a href=\"https://wetten.overheid.nl/BWBR0006923\">Rijnvaartpolitiereglement</a>, <a href=\"https://wetten.overheid.nl/BWBR0004364\">Scheepvaartverkeerswet</a>.</p>",
+      "disclaimer": "Vaarbewijs Prep is een onafhankelijke app van ANAVASIS LLC en is niet verbonden aan het CBR of Rijkswaterstaat. / An independent app by ANAVASIS LLC, not affiliated with the CBR or Rijkswaterstaat."
     }
   ]
 }

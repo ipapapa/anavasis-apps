@@ -7,6 +7,7 @@ For every app: /<slug>/ (support) and /<slug>/privacy/ (privacy policy).
 The policy wording lives here once; each app states only its own facts in
 apps.json:
   ads        "none" | "android" (free Android only) | "both" (free tier on both)
+  ad_formats "banner" = banners only (default: banners + occasional full-screen ad)
   pro        {name, unlocks}            one-time purchase, omit if none
   ai         {feature, sent, note?}     Firebase AI Logic → Gemini, omit if none
   remote_config  feature flags from Firebase Remote Config (installation ID)
@@ -74,8 +75,11 @@ def privacy(a):
         who = "the free Android version" if ads == "android" else "the free version"
         sec.append((f"Advertising ({where})", ios +
             f"<p><strong>{'Android' if ads == 'android' else 'Free version'}:</strong> {who} shows ads served by Google AdMob, "
-            "a service of Google LLC: banner ads on some screens and, at natural break points (for example after a practice "
-            "session or a mock exam), an occasional full-screen ad. To serve, measure and limit ads and to prevent fraud, "
+            "a service of Google LLC: "
+            + ("banner ads on some screens. " if a.get("ad_formats") == "banner" else
+               "banner ads on some screens and, at natural break points (for example after a practice "
+               "session or a mock exam), an occasional full-screen ad. ")
+            + "To serve, measure and limit ads and to prevent fraud, "
             "Google’s ads SDK may collect and use your device’s advertising ID (subject to your device settings), approximate "
             "location derived from your IP address, device and app information, and ad interaction data. Google’s use of this "
             f"data is described in the {G_PRIV} and at {G_ADS}.</p>"
